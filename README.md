@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dgvv60a5r6t1t3dq?svg=true)](https://ci.appveyor.com/project/LagutaNV2/js-2-hw-12-ts)
